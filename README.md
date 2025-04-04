@@ -7,9 +7,9 @@ This Power BI dashboard provides insights into ecommerce performance metrics suc
 - Customer segmentation
 - Profit analysis
 
-## 🔎 Dashboard Preview
+## Dashboard Preview  
+![Arjun Ecommerce Dashboard](Screenshot%20(2361).png)
 
-![Arjun Ecommerce Dashboard](arjun-ecommerce-dashboard.png)
 
 ## 📁 Tools Used
 - Power BI
